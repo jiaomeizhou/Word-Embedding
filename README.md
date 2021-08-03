@@ -1,7 +1,7 @@
 ## Semantic Similarity of Chinese Inverse Morpheme Words Based on Word Embedding
 Chinese Inverse Morpheme words (同素异序词): compound words that have the same morphemes but are arranged in the opposite order, such as "心中"和"中心".
 
-This program calculated consine similarity of Chinese Inverse Morpheme words. The results help us analyze characteristics of this kind of words.
+This project calculated consine similarity of Chinese Inverse Morpheme words. The results help us analyze characteristics of this kind of words.
 
 There are some examples:
 |word 1  |part-of-speech|word 2  |part-of-speech|cosine similarity|
